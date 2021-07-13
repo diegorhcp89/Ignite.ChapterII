@@ -17,3 +17,7 @@
 ## Criar uma pasta dedicada para arquivos convertidos em Javascript
 
 * Dentro do tsconfig.json na linha 17 descomentar o outDir e mudar para "outDir": "./dist", 
+
+## Iniciar o servidor com Typescript
+
+* yarn tsc - node dist/server.ts
